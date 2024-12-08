@@ -23,7 +23,7 @@ const data: NavMenu = [
       {
         id: 11,
         label: "Men's clothes",
-        url: "/shop#men-clothes",
+        // url: "/shop#men-clothes",
         description: "In attractive and spectacular colors and designs",
       },
       {
